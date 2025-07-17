@@ -14,7 +14,7 @@ I'm **Peeradon Ruengkaew**, a Master's student at the Institute of Field Robotic
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=peeradonmoke2002&count_private=true&show_icons=true&theme=buefy" height=160/>
 </a>
 <a href="https://github.com/peeradonmoke2002">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peeradonmoke2002&hide=PLpgSQL,javascript,html,css,kotlin,ruby,cmake&layout=compact&theme=buefy" height=160/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peeradonmoke2002&hide=PLpgSQL,javascript,html,css,kotlin,ruby,cmake&&layout=compact&theme=buefy&size_weight=0.5&count_weight=0.5" height=160 />
 </a>
 
 
